@@ -4,11 +4,12 @@ $(document).ready(function(){
  
 })
 
-//Javascript scroll effect
-$(".navbar a").click(function(){
+//Javascript scroll effect.
+//N.B => Not important to use by now
+/*$(".navbar a").click(function(){
   $("body,html").animate({
    scrollTop:$("#" + $(this).data('value')).offset().top
   },1000)
   
- })
+ })*/
 
